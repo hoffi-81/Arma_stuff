@@ -1,0 +1,9 @@
+cursorTarget setVariable ["2745_DTG", ctrlText (findDisplay 4263 displayCtrl 4201), true];
+cursorTarget setVariable ["2745_NAME", ctrlText (findDisplay 4263 displayCtrl 4202), true];
+cursorTarget setVariable ["2745_UNIT", ctrlText (findDisplay 4263 displayCtrl 4203), true];
+cursorTarget setVariable ["2745_RANK", ctrlText (findDisplay 4263 displayCtrl 4204), true];
+cursorTarget setVariable ["2745_CAPTURER", ctrlText (findDisplay 4263 displayCtrl 4205), true];
+cursorTarget setVariable ["2745_LOCATION", ctrlText (findDisplay 4263 displayCtrl 4206), true];
+cursorTarget setVariable ["2745_CIRCUMSTANCES", ctrlText (findDisplay 4263 displayCtrl 4207), true];
+cursorTarget setVariable ["2745_CONDITION", ctrlText (findDisplay 4263 displayCtrl 4208), true];
+cursorTarget setVariable ["2745_EQUIPMENT", ctrlText (findDisplay 4263 displayCtrl 4209), true];

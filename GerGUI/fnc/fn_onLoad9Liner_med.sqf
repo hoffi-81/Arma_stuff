@@ -1,0 +1,10 @@
+params ["_display"];
+(_display displayCtrl 4201) ctrlSetText (cursorTarget getVariable ["2745_DTG", ""]);
+(_display displayCtrl 4202) ctrlSetText (cursorTarget getVariable ["2745_NAME", ""]);
+(_display displayCtrl 4203) ctrlSetText (cursorTarget getVariable ["2745_UNIT", ""]);
+(_display displayCtrl 4204) ctrlSetText (cursorTarget getVariable ["2745_RANK", ""]);
+(_display displayCtrl 4205) ctrlSetText (cursorTarget getVariable ["2745_CAPTURER", ""]);
+(_display displayCtrl 4206) ctrlSetText (cursorTarget getVariable ["2745_LOCATION", ""]);
+(_display displayCtrl 4207) ctrlSetText (cursorTarget getVariable ["2745_CIRCUMSTANCES", ""]);
+(_display displayCtrl 4208) ctrlSetText (cursorTarget getVariable ["2745_CONDITION", ""]);
+(_display displayCtrl 4209) ctrlSetText (cursorTarget getVariable ["2745_EQUIPMENT", ""]);
